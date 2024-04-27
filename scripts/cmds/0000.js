@@ -27,11 +27,11 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝑴𝑹 𝑷𝑬𝑹𝑭𝑬𝑪𝑻',
-          gender: '𝘽𝙤𝙮',
-          hobby: '𝙅𝙪𝙨𝙩 𝙖 𝙃𝙖𝙥𝙥𝙮 𝙡𝙞𝙛𝙚 ',
+          name: '𝑷𝑹𝑰𝒀𝑨𝑵𝑺𝑯𝑰 𝑲𝑨𝑼𝑹',
+          gender: '𝑮𝑰𝑹𝑳',
+          hobby: '𝑮𝑼𝑵 𝑭𝑰𝑹𝑰𝑵𝑮 𝑨𝑵𝑫 𝑪𝑶𝑫𝑰𝑵𝑮 ',
           relationship: '𝙎𝙞𝙣𝙜𝙡𝙚 𝙔𝙚𝙩!',
-          facebookLink: ' ',
+          facebookLink: '.m.facebook.com/PriyanshiKaurJi',
           bio: '𝙏𝙤 𝙢𝙖𝙠𝙚 𝙛𝙪𝙣'
         };
 
