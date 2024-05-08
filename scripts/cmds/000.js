@@ -4,7 +4,7 @@ const Prefixes = [
   'ai',
   'anya',
   'perfect',
-  '+ai',
+  'pihu',
   'hi',
   '.ai',
   'ask',
