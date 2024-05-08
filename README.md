@@ -1,7 +1,19 @@
 
-#       MR-PERFECT
+#        SHANKAR SUMAN
 
 
-Hey guys dont forget to follow me
-{}
-All commands working one Goatbot v2
+Coding And CMD Package 
+
+#        PRIYANSHI KAUR
+
+DON'T CHANGE THE CREDITS
+AND DON'T FORGET TO FOLLOW 
+
+FACEBOOK:-
+m.facebook.com/PriyanshiKaurJi
+
+GitHub:-
+www.github.com/PriyanshiKaurJi
+
+Telegram:-
+t.me/PriyanshiKaurJi
