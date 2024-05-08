@@ -23,7 +23,7 @@ module.exports = {
   },
   onStart: async function ({ api, event }) {
       try {
-        const loadingMessage = "𝙇𝙤𝙖𝙙𝙞𝙣𝙜......";
+        const loadingMessage = "𝑃𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔......ジ";
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
