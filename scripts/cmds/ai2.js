@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const GPT_API_URL = 'https://sandipapi.onrender.com/gpt';
+const GPT_API_URL = 'https://api.openai.com/v1/chat/completions';
 const PREFIXES = ['ai'];
 const horizontalLine = "━━━━━━━━━━━━━━━";
 
