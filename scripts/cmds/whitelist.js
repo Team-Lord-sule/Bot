@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "whitelist",
     aliases: ["wl"],
-    version: "1.0.4",
+    version: "1.0.5",
     author: "Shikaki | Base code by: Rehat",
     countDown: 5,
     role: 2,
@@ -36,6 +36,9 @@ module.exports = {
   },
 
   onStart: async function ({ message, args, usersData, event }) {
+    if (args.length === 0) {
+      return message.reply(config.whiteListMode.enable ? "Whitelist mode is ON." : "Whitelist mode is OFF.");
+    }
     switch (args[0]) {
       case "add":
       case "a": {
