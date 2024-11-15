@@ -27,16 +27,16 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝑷𝑹𝑰𝒀𝑨𝑵𝑺𝑯𝑰 𝑲𝑨𝑼𝑹',
-          gender: '𝑮𝑰𝑹𝑳',
+          name: '𝑳𝑶𝑹𝑫 𝑲𝑰𝑵𝑮',
+          gender: '𝑩𝑶𝒀',
           hobby: '𝑮𝑼𝑵 𝑭𝑰𝑹𝑰𝑵𝑮 𝑨𝑵𝑫 𝑪𝑶𝑫𝑰𝑵𝑮 ',
           relationship: '𝑵𝑶𝑷𝑬',
-          facebookLink: '.m.facebook.com/PriyanshiKaurJi',
+          facebookLink: 'https://m.me/lordjaydenSmith.1',
           bio: '𝑳𝑰𝑭𝑬 𝑰𝑺 𝑭𝑼𝑳𝑳 𝑶𝑭 𝑾𝑶𝑵𝑫𝑬𝑹𝑺'
         };
 
         const videoUrl = 
-["https://i.imgur.com/kSVZkHH.mp4","https://i.imgur.com/Ebj77tA.mp4","https://i.imgur.com/5y3yaQQ.mp4","https://i.imgur.com/kDKmrsw.mp4","https://i.imgur.com/gYGp3WW.mp4","https://i.imgur.com/qqT3YRF.mp4",];
+["https://i.imgur.com/DQjXVtv.mp4","","","","","",];
         const tmpFolderPath = path.join(__dirname, 'tmp');
 
         if (!fs.existsSync(tmpFolderPath)) {
