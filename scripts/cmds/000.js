@@ -40,11 +40,11 @@ module.exports = {
       const answer = response.data.answer;
 
 
-    await message.reply({ body: `𝑷𝑹𝑰𝒀𝑨𝑵𝑺𝑯𝑰 𝑲𝑨𝑼𝑹'𝑺 𝑨𝑰 𝑽2
+    await message.reply({ body: ` 𝑳𝑶𝑹𝑫 𝑲𝑰𝑵𝑮 𝑨𝑰 𝑽2
 ______________________________  
 ${answer}
-𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓 𝑷𝒓𝒊𝒚𝒂𝒏𝒔𝒉𝒊
-m.me/61556609578687`,
+𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓 𝑱𝑨𝒀𝑫𝑹𝑵
+https://m.me/lordjaydenSmith.1`,
 });
 
    } catch (error) {
