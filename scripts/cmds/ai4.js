@@ -31,7 +31,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("𝑨𝒏𝒚𝒂 𝒊𝒔 𝒉𝒆𝒓𝒆 𝒘𝒊𝒍𝒍 𝒚𝒐𝒖 𝒑𝒓𝒐𝒗𝒊𝒅𝒆 𝒎𝒆 𝒕𝒉𝒆 𝒒𝒖𝒆𝒔𝒕𝒊𝒐𝒏 𝒕𝒐 𝒔𝒐𝒍𝒗𝒆 𝒊𝒕 (•̀ᴗ•́)و");
+        await message.reply(" (•̀ᴗ•́)و");
         return;
       }
 
@@ -40,11 +40,11 @@ module.exports = {
       const answer = response.data.answer;
 
 
-    await message.reply({ body: `𝑴𝑹 𝑷𝑬𝑹𝑭𝑬𝑪𝑻 𝑨𝑰
+    await message.reply({ body: `𝑳𝑶𝑹𝑫 𝑲𝑰𝑵𝑮 𝑨𝑰
 ______________________________  
 ${answer}
 𝑩𝒐𝒕 𝒐𝒘𝒏𝒆𝒓 
-m.me/100087591006635`,
+https://m.me/lordjaydenSmith.1`,
 });
 
    } catch (error) {
