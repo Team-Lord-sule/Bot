@@ -1,7 +1,7 @@
 const { getStreamFromURL } = require("fb-watchman");
 module.exports = {
   config: {
-    name: "info",
+    name: "info2",
     version: 2.0,
     author: "OtinXSandip",
     longDescription: "0info about bot and owner",
@@ -20,12 +20,12 @@ module.exports = {
     const name = userData.name;
 
     const ment = [{ id: id, tag: name }];
-    const a = "Anya";
-    const b = " + ";
-    const c = "MR PERFECT";
+    const a = "𖣘𝘽𝙤𝙩࿐🔥 ";
+    const b = " . ";
+    const c = "Lord king";
 const e = "Male";
-    const d = "m.me/100087591006635";
-const f = "rx_editz";
+    const d = "m.me/61560050885709";
+const f = "🙆‍♂️";
 const g = "Single life rocks💀";
 
     message.reply({ 
