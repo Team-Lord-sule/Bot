@@ -15,13 +15,13 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "sdxl"
+      "yt"
     ]
   },
   "adminBot": [
     "61560050885709",
     "100088590098255",
-    "7361745510525903"
+    "6617605598354814"
   ],
   "whiteListMode": {
     "enable": false,
