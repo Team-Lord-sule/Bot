@@ -16,12 +16,11 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'Bishwo Bastola',
+      name: 'Jayden Smith',
       gender: 'Male',
-      age: '18',
-      height: '5.10',
-      facebookLink: 'https://www.facebook.com/m.zenesha',
-      nick: 'Mr perfect'
+      age: '18+',
+      facebookLink: 'https://www.facebook.com/lordjaydenSmith.1',
+      nick: 'Jay junior'
     };
 
     const bold = 'https://i.imgur.com/DDO686J.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
@@ -42,7 +41,6 @@ Owner Information:🧾
 Name: ${ownerInfo.name}
 Gender: ${ownerInfo.gender}
 Age: ${ownerInfo.age}
-Height: ${ownerInfo.height}
 Facebook: ${ownerInfo.facebookLink}
 Nick: ${ownerInfo.nick}
 `;
