@@ -5,11 +5,11 @@ const path = require('path');
 module.exports = {
 config: {
   name: "owner",
-  aurthor:"Tokodori",// Convert By Goatbot Tokodori 
+  aurthor:"lord king",// Convert By Goatbot-v3 
    role: 0,
   shortDescription: " ",
   longDescription: "",
-  category: "admin",
+  category: "𝘖𝘞𝘕𝘌𝘙 𝘐𝘕𝘍𝘖",
   guide: "{pn}"
 },
 
@@ -37,12 +37,17 @@ config: {
     fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
     const response = `
-Owner Information:🧾
-Name: ${ownerInfo.name}
-Gender: ${ownerInfo.gender}
-Age: ${ownerInfo.age}
-Facebook: ${ownerInfo.facebookLink}
-Nick: ${ownerInfo.nick}
+𝑻𝑨𝑲𝑬 𝑨 𝑳𝑶𝑶𝑲 𝑨𝑻 𝑴𝒀 𝑶𝑾𝑵𝑬𝑹 𝑰𝑵𝑭𝑶.
+ ☜♡☞
+\n❃━━━━━━━━━𝗪𝗛𝗔𝗧━━━━━━━━━━❃\n
+❊ 𝑁𝐴𝑀𝐸: ${ownerInfo.name}
+❊ 𝐺𝐸𝑁𝐷𝐸𝑅: ${ownerInfo.gender}
+❊ 𝐴𝐺𝐸: ${ownerInfo.age}
+❊ 𝐹𝐴𝐶𝐸𝐵𝑂𝑂𝐾: ${ownerInfo.facebookLink}
+❊ 𝑁𝐼𝐶𝐾: ${ownerInfo.nick}
+\n❃━━━━━━━━━━━━━━━━━━━━━━❃\n
+𝘏𝘢𝘷𝘦 𝘢 𝘨𝘰𝘰𝘥 𝘵𝘪𝘮𝘦 𝘶𝘴𝘪𝘯𝘨 𝘮𝘺 𝘩𝘦𝘭𝘱 ☆(❁‿❁)☆
+\n❁━━━━━━━━━━━━━━━━━━━━━━❁\n
 `;
 
 
