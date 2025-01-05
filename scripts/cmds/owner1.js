@@ -4,8 +4,8 @@ const path = require('path');
 
 module.exports = {
   config: {
-    name: "owner3",
-    aliases: ["info","MR PERFECT"],
+    name: "owner",
+    aliases: ["info","-"],
     author: " Mr perfect ", 
     version: "2.0",
     cooldowns: 0,
