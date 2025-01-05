@@ -55,7 +55,7 @@ module.exports = {
         fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
         const response = `
-       𝕆𝕨𝕟𝕖𝕣 𝕀𝕟𝕗𝕠𝕣𝕞𝕒𝕥𝕚𝕠𝕟
+       second owner 𝕀𝕟𝕗𝕠𝕣𝕞𝕒𝕥𝕚𝕠𝕟
 ««««««««««««««»»»»»»»»»»»»»»  
 ☆☆☆☆☆☆(◠‿◠)☆☆☆☆☆☆     
 𝙉𝙖𝙢𝙚:${ownerInfo.name}          
