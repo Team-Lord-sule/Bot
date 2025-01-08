@@ -1,19 +1,15 @@
 
-#        SHANKAR SUMAN
 
-
-Coding And CMD Package 
-
-#        PRIYANSHI KAUR
+#        LORD KING
 
 DON'T CHANGE THE CREDITS
 AND DON'T FORGET TO FOLLOW 
 
 FACEBOOK:-
-m.facebook.com/PriyanshiKaurJi
+m.facebook.com/lordjaydenSmith.1 
 
 GitHub:-
-www.github.com/PriyanshiKaurJi
+www.github.com/LordKing2 
 
 Telegram:-
-t.me/PriyanshiKaurJi
+t.me/jaydenemith 
